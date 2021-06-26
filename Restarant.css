@@ -1,5 +1,12 @@
-
-  
+     
+     body{
+        background:url(real/back.jpg)no-repeat;
+        background-color:black;
+        background-size: cover;
+        color:black;
+        
+        
+      }
       .hearder{
         width: 390px;
         float: right;
