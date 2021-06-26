@@ -1,0 +1,100 @@
+
+  
+      .hearder{
+        width: 390px;
+        float: right;
+        border: solid blue;
+        border-color: darkgray;
+        border-radius:30px;
+        background: pink;
+      }
+      
+      .hearder ul li{
+        float:left;
+        height: 20px;
+        margin: 5px;
+        color:red;
+      }
+      .hearder ul li a{
+        text-decoration: none;
+        color:red;
+        text-size:bold;
+      }
+      .hearder ul li:hover{
+        background-color:white;
+        
+      }
+      .hearder ul li a:hover{
+        background-color: lightblue;
+      }
+      .register{
+        float:right;
+      }
+      .register ul form{
+        border: gray;
+        border-image:url(real/back.jpg)
+      }
+      
+   .slider {
+      overflow: hidden;
+       align-items: center;
+       width: 500px;
+       position:relative;
+       margin:-7px;
+       border-radius:20px;
+      }
+        
+  .slider figure {
+    position: relative;
+    width: 500%;
+    margin: 0%;
+    left: 0%;
+    align-items: center;
+    animation: 20s slider infinite;
+    }
+      
+    .slider figure img {
+        float:left;
+        width:20%;
+    }
+    .fbimage img {
+      float:right;
+      border-radius:30px;
+      width:30px;
+    
+    }
+    .fbimage p{
+      float:right;
+    }
+    @keyframes slider{
+        0%{ 
+          left:0%;
+      }
+        20%{
+          left:0%;
+      }  
+        25%{
+          left:-100%;
+        }
+       
+        45%{
+          left:-100%;
+      }
+        50%{
+          left:-200%;
+      }
+       70%{
+         left:-200%;
+       }
+       75%{
+         left:-300%;
+       }
+       95%{
+         left:-300%;
+       }
+       100%{
+         left:-400%;
+      }
+
+
+      
