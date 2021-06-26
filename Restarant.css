@@ -1,18 +1,11 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title></title>
-    <!--<link rel="stylesheet" href="Restarant.css">
-    <style type="text/css">-->
-      body{
+     
+     body{
         background:url(real/back.jpg)no-repeat;
         background-color:black;
         background-size: cover;
-        color:black;  
-      }
+        color:red;
+        
+        }
       .hearder{
         width: 390px;
         float: right;
@@ -109,55 +102,5 @@
          left:-400%;
       }
 
-      }
+
       
-      
-    </style>
-</head>
-
-<body>
-<div class="hearder">
-  <ul type="none">
-    <li><a  href="#"><span style="color:Purple">Home<span></a></li>
-    <li><a href="slide/slide.html">Menu</a></li>
-    <li><a href="#">Oline order</a></li>
-    <li><a href="#">Team</a></li>
-    <li><a href="#">Contact</a></li>
-   </ul>
-</div>
-
-<div style="text-align:center;margin-bottom:50px"><h1>GET HE<span style="color:purple">ALTHY</hi>
-
-</div>
-
-<div class="slider">
-     <figure >
-        <img src="slide/imgg1.jpg">
-        <img src="slide/imgg2.jpg">
-        <img src="slide/imgg3.jpg">
-        <img src="slide/imgg4.jpg">
-        <img src="slide/imgg1.jpg">
-      </figure>
-</div>
-
-<div class="register">
-  
-   <h3 style="color:red;text-transform:uppercase;">Register for update</h3>
-   <form class="form" action="" method="get" accept-charset="utf-8">
-   <input style="background-color:lightblue"type="text"name="Name" id="Name"placeholder="Enter your name" /><br>
-   <input style="background-color:lightblue "   type="email" id="Email" placeholder="Enter Email"><br>
-   <input style="background-color:lightblue" type="tel" id="Phone" placeholder="Enter Phone"><br>
-   <button type"submit"><span style="color:blue">Register</span></button>
-<div>
-<div class="fbimage">
-    <p style="float: right">Visit us </p><br>
-   <a href="https://facebook.com "> <img src="slide/download.png" ></a>
-
-  </div>
-</div>
-    </form>
-</div>
-
-</body>
-
-</html>
