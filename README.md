@@ -36,7 +36,7 @@
 - [Data Visualization Best Practices](https://yourblog.com/data-viz-best-practices)
 
 ## 📫 How to reach me
-- LinkedIn: [My LinkedIn Profile](https://inkedin.com/in/abdulah-mamadee-kenneh-399023175/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/abdulah-mamadee-kenneh-399023175/)
 - Portfolio: [My Personal Website](https://www.dataskillacademy.com/user-pofolio/1/))
 - Email: (mailto:info@dataskillacademy.com)
 
